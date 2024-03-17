@@ -26,18 +26,22 @@ Educação
     Engenharia de Computação - Universidade Virtual do Estado de São Paulo (Univesp)
     Desenvolvimento de Software Full Stack - Cubos Academy
 
+##
 
 Contato
 
     📧 Email: pezzote@gmail.com
     🔗 LinkedIn: linkedin.com/in/marcopezzote
 
+##
 
 Projetos
 
-    Projeto X: Descrição breve do projeto e link para o repositório.
-    Projeto Y: Descrição breve do projeto e link para o repositório.
+Projeto realizado na primeira aula de servidores do curso de Desenvolvimento de Software Full Stack da Cubos Academy:
+        
+        https://github.com/marcopezzote/exercicios-servidores.git
 
+##
 
 Contribuições
 

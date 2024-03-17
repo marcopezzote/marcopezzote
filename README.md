@@ -28,13 +28,6 @@ Educação
 
 ##
 
-Contato
-
-    📧 Email: pezzote@gmail.com
-    🔗 LinkedIn: linkedin.com/in/marcopezzote
-
-##
-
 Projetos
 
 Projeto realizado na primeira aula de servidores do curso de Desenvolvimento de Software Full Stack da Cubos Academy:

@@ -33,12 +33,12 @@ Sou um estudante de Programação e Engenharia da Computação , apaixonado por 
 ![Express](https://img.shields.io/badge/-Express-000?&logo=express)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=postgresql)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
-
+<!--
 ## Projects
 
 ### API ToDo List (https://github.com/marcopezzote/task-management-api)
 Lista de tarefas com funcionalidades para auxiliar pessoas com TDAH.
-<!--
+
 ### [Nome do Projeto 2](https://github.com/seuusuario/projeto2)
 Descrição breve do projeto 2.
 

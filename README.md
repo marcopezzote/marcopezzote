@@ -76,6 +76,9 @@ Sistema de autenticação seguro com implementação de OAuth 2.0, MFA e proteç
 ### [DevOps Automation Toolkit](https://github.com/marcopezzote/devops-toolkit)
 Conjunto de ferramentas para automação de processos de CI/CD, monitoramento e configuração de infraestrutura como código. Utiliza Docker, Kubernetes e scripts em Python para orquestração de ambientes.
 
+### [API PDV Port](https://github.com/marcopezzote/api-pdv-port)
+Sistema completo de Ponto de Venda (PDV) com API RESTful desenvolvida em Node.js. Implementa autenticação JWT, controle de estoque, gestão de vendas e relatórios financeiros. Utiliza PostgreSQL para persistência e inclui testes unitários e de integração.
+
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -97,9 +100,10 @@ gantt
 
 ## 🎓 Formação Acadêmica
 
-- **Engenharia da Computação** - Universidade [Nome da Universidade]
-- **Certificação em Desenvolvimento Seguro** - [Entidade Certificadora]
-- **Especialização em DevOps** - [Instituição]
+- **Engenharia da Computação** - UNIVESP - Univ. Pública de São Paulo
+- **Desenvolvimento Full Stack** - Cubos Academy
+- **Certificação em Desenvolvimento Seguro** - Instituto Matera
+- **Especialização em DevOps** - Em andamento
 
 <div align="center">
   <a href="https://github.com/marcopezzote">

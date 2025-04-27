@@ -67,7 +67,7 @@ Desenvolvedor Full Stack com formação em Engenharia da Computação, especiali
 ![Cypress](https://img.shields.io/badge/-Cypress-000?&logo=cypress)
 ## 🚀 Projetos em Destaque
 
-### [API PDV Port](https://github.com/marcopezzote/api-pdv-port)
+### [API PDV](https://github.com/marcopezzote/api-pdv-port)
 Sistema completo de Ponto de Venda (PDV) com API RESTful desenvolvida em Node.js. Implementa autenticação JWT, controle de estoque, gestão de vendas e relatórios financeiros. Utiliza PostgreSQL para persistência e inclui testes unitários e de integração.
 <!-- 
 ### [Task Management API](https://github.com/marcopezzote/task-management-api)

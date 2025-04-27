@@ -74,7 +74,9 @@ Sistema completo de Ponto de Venda (PDV) com API RESTful desenvolvida em Node.js
 API RESTful para gerenciamento de tarefas com funcionalidades específicas para auxiliar pessoas com TDAH. Desenvolvida com Node.js, Express e MongoDB, implementando autenticação JWT e testes unitários automatizados.
 -->
 ### [Secure Auth System](https://github.com/marcopezzote/secure-auth)
-Sistema de autenticação seguro com implementação de OAuth 2.0, MFA e proteção contra ataques comuns (XSS, CSRF). Desenvolvido com C# e .NET, utilizando práticas de Clean Architecture e testes automatizados com xUnit.
+Solução de autenticação e autorização robusta e escalável desenvolvida em ASP.NET Core 8. O projeto implementa as melhores práticas de segurança para aplicações modernas, incluindo autenticação multi-fator, gestão avançada de tokens JWT, mecanismos de proteção contra ataques de força bruta e um sistema detalhado de auditoria de segurança.
+
+Desenvolvido com foco em segurança, escalabilidade e manutenibilidade, o SecureAuth fornece uma base sólida para aplicações empresariais que necessitam de um sistema de identidade completo e seguro.
 
 ### [Snake Game em Python](https://github.com/marcopezzote/snake-game)
 Este é um jogo Snake (Jogo da Cobra) moderno e profissional desenvolvido em Python utilizando a biblioteca Pygame. O projeto demonstra conceitos avançados de programação, incluindo orientação a objetos, gerenciamento de estados, e técnicas de game design.

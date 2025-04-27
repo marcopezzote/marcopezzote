@@ -68,7 +68,7 @@ Desenvolvedor Full Stack com formação em Engenharia da Computação, especiali
 ## 🚀 Projetos em Destaque
 
 ### [API PDV](https://github.com/marcopezzote/api-pdv-port)
-Sistema completo de Ponto de Venda (PDV) com API RESTful desenvolvida em Node.js. Implementa autenticação JWT, controle de estoque, gestão de vendas e relatórios financeiros. Utiliza PostgreSQL para persistência e inclui testes unitários e de integração.
+API RESTful para um sistema de Ponto de Venda (PDV) completo que gerencia usuários, produtos, clientes, pedidos e categorias. Desenvolvida com Node.js, Express e PostgreSQL, esta API inclui autenticação JWT, upload de imagens, validação de dados e documentação Swagger.
 <!-- 
 ### [Task Management API](https://github.com/marcopezzote/task-management-api)
 API RESTful para gerenciamento de tarefas com funcionalidades específicas para auxiliar pessoas com TDAH. Desenvolvida com Node.js, Express e MongoDB, implementando autenticação JWT e testes unitários automatizados.

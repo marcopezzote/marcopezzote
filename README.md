@@ -69,22 +69,22 @@ Desenvolvedor Full Stack com formação em Engenharia da Computação, especiali
 
 ### [API PDV Port](https://github.com/marcopezzote/api-pdv-port)
 Sistema completo de Ponto de Venda (PDV) com API RESTful desenvolvida em Node.js. Implementa autenticação JWT, controle de estoque, gestão de vendas e relatórios financeiros. Utiliza PostgreSQL para persistência e inclui testes unitários e de integração.
-
-[//]:### [Task Management API](https://github.com/marcopezzote/task-management-api)
-[//]:API RESTful para gerenciamento de tarefas com funcionalidades específicas para auxiliar pessoas com TDAH. Desenvolvida com Node.js, Express e MongoDB, implementando [//]:autenticação JWT e testes unitários automatizados.
-
+<!-- 
+### [Task Management API](https://github.com/marcopezzote/task-management-api)
+API RESTful para gerenciamento de tarefas com funcionalidades específicas para auxiliar pessoas com TDAH. Desenvolvida com Node.js, Express e MongoDB, implementando autenticação JWT e testes unitários automatizados.
+-->
 ### [Secure Auth System](https://github.com/marcopezzote/secure-auth)
 Sistema de autenticação seguro com implementação de OAuth 2.0, MFA e proteção contra ataques comuns (XSS, CSRF). Desenvolvido com C# e .NET, utilizando práticas de Clean Architecture e testes automatizados com xUnit.
 
-### [Snake Game em Python ]([https://github.com/marcopezzote/secure-auth](https://github.com/marcopezzote/snake-game)
+### [Snake Game em Python](https://github.com/marcopezzote/snake-game)
 Este é um jogo Snake (Jogo da Cobra) moderno e profissional desenvolvido em Python utilizando a biblioteca Pygame. O projeto demonstra conceitos avançados de programação, incluindo orientação a objetos, gerenciamento de estados, e técnicas de game design.
 
-### [Jogo de Ping-Pong]([https://github.com/marcopezzote/secure-auth](https://github.com/marcopezzote/ping-pong-html)
+### [Jogo de Ping-Pong](https://github.com/marcopezzote/ping-pong-html)
 Este é um jogo de Ping Pong moderno desenvolvido com HTML5, CSS3 e JavaScript puro. O jogo foi desenvolvido para demonstrar boas práticas de desenvolvimento web, incluindo design responsivo, organização de código e experiência de usuário aprimorada.
-
-[//]:### [DevOps Automation Toolkit](https://github.com/marcopezzote/devops-toolkit)
-[//]:Conjunto de ferramentas para automação de processos de CI/CD, monitoramento e configuração de infraestrutura como código. Utiliza Docker, Kubernetes e scripts em Python [//]:para orquestração de ambientes.
-
+<!-- 
+### [DevOps Automation Toolkit](https://github.com/marcopezzote/devops-toolkit)
+Conjunto de ferramentas para automação de processos de CI/CD, monitoramento e configuração de infraestrutura como código. Utiliza Docker, Kubernetes e scripts em Python para orquestração de ambientes.
+-->
 
 
 ## 📊 GitHub Analytics

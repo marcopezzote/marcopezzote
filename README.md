@@ -1,127 +1,115 @@
 [![](profile.gif)](https://www.linkedin.com/in/marcopezzote)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&pause=1000&color=247FA7&random=false&width=435&lines=Ol%C3%A1!+Sou+o+Marco%2C;dev+full+stack+e;formado+em;Eng.+da+Computa%C3%A7%C3%A3o)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&pause=1000&color=247FA7&random=false&width=435&lines=Ol%C3%A1!+Sou+o+Marco%2C;dev+full+stack+e;Eng.+da+Computa%C3%A7%C3%A3o)](https://git.io/typing-svg)
 
 <div align="center">
-
-![Profile views](https://komarev.com/ghpvc/?username=marcopezzote&color=blue)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcopezzote)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:pezzote@gmail.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/marcopezzote)
-
+  <a href="https://www.linkedin.com/in/marcopezzote" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="mailto:pezzote@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://marcopezzote.tech" target="_blank"><img src="https://img.shields.io/badge/-Portfólio-247FA7?style=for-the-badge&logo=firefox-browser&logoColor=white" target="_blank"></a>
 </div>
+<div align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=marcopezzote&label=PROFILE+VIEWS&color=blue&style=flat-square" alt="profile views" />
+</div>
+
+<br>
 
 ## 👨‍💻 Sobre Mim
 
-Desenvolvedor Full Stack com formação em Engenharia da Computação, especializado em desenvolvimento de software e segurança da informação. Possuo sólidos conhecimentos em arquitetura de software, desenvolvimento orientado a testes e práticas de DevOps. Busco constantemente aprimorar minhas habilidades técnicas e acompanhar as tendências do mercado de tecnologia.
+Sou um **Engenheiro de Computação e Desenvolvedor Full Stack** apaixonado por arquitetar e construir soluções de ponta a ponta que resolvem problemas de negócio complexos. Minha especialidade é transformar processos operacionais em plataformas digitais, seguras e escaláveis.
 
-- 🔭 Atualmente trabalho com desenvolvimento de aplicações web e APIs RESTful
-- 🌱 Aperfeiçoando conhecimentos em arquitetura de microsserviços e CI/CD
-- 🔒 Estudando cibersegurança e pentest para implementação de sistemas seguros
-- 🌍 Baseado na região de Campinas, São Paulo - disponível para trabalho remoto
-- 💡 Interessado em projetos inovadores com foco em qualidade e boas práticas
-- 🎹 Nas horas vagas: músico (teclado/contrabaixo) e gamer
+- 🔭 Atualmente, lidero o desenvolvimento de uma **plataforma SaaS B2B (multi-tenant e offline-first)**, aplicando os princípios de Clean Code, SOLID e DevSecOps.
+- 🚀 Minha stack principal inclui **Node.js, NestJS, React, React Native e TypeScript**.
+- 🛡️ Tenho grande interesse e projetos em **Segurança da Informação** (com .NET) e **Inteligência Artificial** (com Python).
+- 🌱 Estou sempre estudando e aplicando conceitos de **arquitetura de software** e **automação DevOps** com CI/CD e Docker.
+- 💡 Busco desafios que me permitam criar produtos de software de alto impacto, com foco em qualidade, performance e segurança.
 
-## 🛠️ Competências Técnicas
+## 🛠️ Tecnologias e Ferramentas
 
-### Linguagens de Programação
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <strong>Backend</strong><br>
+      - Node.js, NestJS<br>
+      - TypeScript, C#<br>
+      - .NET, Express.js<br>
+      - Python, Java<br>
+      - PostgreSQL, SQLite<br>
+      - MongoDB, SQL<br>
+    </td>
+    <td valign="top" width="50%">
+      <strong>Frontend</strong><br>
+      - React, React Native<br>
+      - Next.js, JavaScript<br>
+      - HTML5, CSS<br>
+      <br>
+      <strong>Testes & Qualidade</strong><br>
+      - Jest, Cypress<br>
+      - xUnit<br>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <strong>DevOps & Cloud</strong><br>
+      - Docker, Kubernetes<br>
+      - CI/CD, GitHub Actions<br>
+      - AWS, Linux<br>
+    </td>
+    <td valign="top" width="50%">
+      <strong>IA & Segurança</strong><br>
+      - Machine Learning<br>
+      - Scikit-Learn, Pandas<br>
+      - TensorFlow, NLTK<br>
+      - JWT, MFA<br>
+    </td>
+  </tr>
+</table>
 
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
-![C#](https://img.shields.io/badge/-CSharp-000?&logo=csharp&logoColor=239120)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3)
-
-### Frameworks & Bibliotecas
-
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![Express](https://img.shields.io/badge/-Express-000?&logo=express)
-![.NET](https://img.shields.io/badge/-.NET-000?&logo=dotnet&logoColor=512BD4)
-![Django](https://img.shields.io/badge/-Django-000?&logo=Django&logoColor=092E20)
-
-### Banco de Dados
-
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb)
-![Redis](https://img.shields.io/badge/-Redis-000?&logo=redis)
-
-### DevOps & Ferramentas
-
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=kubernetes)
-![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
-![CI/CD](https://img.shields.io/badge/-CI/CD-000?&logo=github-actions)
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=amazon-aws)
-
-### Testes & Qualidade
-
-![Jest](https://img.shields.io/badge/-Jest-000?&logo=jest&logoColor=C21325)
-![JUnit](https://img.shields.io/badge/-JUnit-000?&logo=java)
-![xUnit](https://img.shields.io/badge/-xUnit-000?&logo=dotnet)
-![Selenium](https://img.shields.io/badge/-Selenium-000?&logo=selenium)
-![Cypress](https://img.shields.io/badge/-Cypress-000?&logo=cypress)
 ## 🚀 Projetos em Destaque
 
-### [API PDV](https://github.com/marcopezzote/api-pdv-port)
-API RESTful para um sistema de Ponto de Venda (PDV) completo que gerencia usuários, produtos, clientes, pedidos e categorias. Desenvolvida com Node.js, Express e PostgreSQL, esta API inclui autenticação JWT, upload de imagens, validação de dados e documentação Swagger.
-<!-- 
-### [Task Management API](https://github.com/marcopezzote/task-management-api)
-API RESTful para gerenciamento de tarefas com funcionalidades específicas para auxiliar pessoas com TDAH. Desenvolvida com Node.js, Express e MongoDB, implementando autenticação JWT e testes unitários automatizados.
--->
-### [Secure Auth System](https://github.com/marcopezzote/secure-auth)
-Solução de autenticação e autorização robusta e escalável desenvolvida em ASP.NET Core 8. O projeto implementa as melhores práticas de segurança para aplicações modernas, incluindo autenticação multi-fator, gestão avançada de tokens JWT, mecanismos de proteção contra ataques de força bruta e um sistema detalhado de auditoria de segurança.
+### [Plataforma de Gestão de Serviços de Campo (Projeto PCM)](#)
+[cite_start]Projeto principal em que atuo, desenvolvendo do zero uma solução SaaS B2B com arquitetura multi-tenant e offline-first. A plataforma visa otimizar operações de campo para o setor industrial.
+- **Stack:** Node.js, NestJS, React, React Native, TypeScript, PostgreSQL, SQLite, Docker.
+- **Destaques:** Arquitetura escalável, sincronização de dados offline, migração de dados legados (ETL) e CI/CD.
 
-Desenvolvido com foco em segurança, escalabilidade e manutenibilidade, o SecureAuth fornece uma base sólida para aplicações empresariais que necessitam de um sistema de identidade completo e seguro.
+### [Secure Auth System](#)
+Desenvolvimento de uma solução de autenticação e autorização robusta e escalável em ASP.NET Core e C#, projetada para ser um módulo de segurança centralizado e reutilizável para aplicações modernas.
+- **Destaques:** Autenticação Multi-Fator (MFA), gestão avançada de tokens JWT, mecanismos de defesa contra ataques de força bruta e auditoria de segurança.
 
-### [Snake Game em Python](https://github.com/marcopezzote/snake-game)
-Este é um jogo Snake (Jogo da Cobra) moderno e profissional desenvolvido em Python utilizando a biblioteca Pygame. O projeto demonstra conceitos avançados de programação, incluindo orientação a objetos, gerenciamento de estados, e técnicas de game design.
+### [API PDV (Ponto de Venda)](#)
+Desenvolvimento de uma API RESTful completa para um sistema de Ponto de Venda (PDV), projetada para ser o coração de uma solução de gestão comercial.
+- **Destaques:** Arquitetura escalável com Node.js e Express, autenticação segura com JWT e documentação interativa com Swagger (OpenAPI).
 
-### [Jogo de Ping-Pong](https://github.com/marcopezzote/ping-pong-html)
-Este é um jogo de Ping Pong moderno desenvolvido com HTML5, CSS3 e JavaScript puro. O jogo foi desenvolvido para demonstrar boas práticas de desenvolvimento web, incluindo design responsivo, organização de código e experiência de usuário aprimorada.
-<!-- 
-### [DevOps Automation Toolkit](https://github.com/marcopezzote/devops-toolkit)
-Conjunto de ferramentas para automação de processos de CI/CD, monitoramento e configuração de infraestrutura como código. Utiliza Docker, Kubernetes e scripts em Python para orquestração de ambientes.
--->
+### [DevOps Automation Toolkit](#)
+Desenvolvimento de um conjunto de scripts e configurações para automação de infraestrutura e pipelines de CI/CD, visando acelerar o tempo de deploy, garantir a consistência e padronizar ambientes de desenvolvimento e produção.
+- **Destaques:** Orquestração de contêineres com Docker e Kubernetes, automação de pipeline com Python e princípios de Infraestrutura como Código (IaC).
 
+### [Sistema de Detecção de Depressão (TCC)](#)
+Projeto de conclusão de curso que emprega Inteligência Artificial e Machine Learning para identificar padrões associados à depressão em textos de redes sociais, utilizando Python e bibliotecas como Scikit-Learn, TensorFlow e NLTK.
+
+## 💼 Carreira & Contato
+
+Atualmente focado em engenharia e arquitetura de software para soluções SaaS B2B. Para um histórico profissional detalhado, convido você a se conectar comigo no LinkedIn.
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/marcopezzote" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</p>
+
+## 🎓 Formação
+
+- **Engenharia da Computação** - UNIVESP
+- **Desenvolvimento Full Stack** - Cubos Academy
+- **Bootcamp em Segurança da Informação** - Matera
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=marcopezzote&theme=dark" />
-</div>
-
-
-## 💼 Experiência Profissional
-
-```mermaid
-gantt
-    title Trajetória Profissional
-    dateFormat  YYYY-MM
-    section Experiência
-    Desenvolvedor Full Stack     :2022-01, 2025-04
-    Analista de Segurança       :2021-06, 2021-12
-    Desenvolvedor Back-end      :2020-04, 2021-05
-```
-
-## 🎓 Formação Acadêmica
-
-- **Engenharia da Computação** - UNIVESP - Univ. Pública de São Paulo
-- **Desenvolvimento Full Stack** - Cubos Academy
-- **Certificação em Desenvolvimento Seguro** - Instituto Matera
-- **Especialização em DevOps** - Em andamento
-
-<div align="center">
   <a href="https://github.com/marcopezzote">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=marcopezzote&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true&bg_color=0D1117&text_color=ffffff&icon_color=00ff00" />
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcopezzote&layout=compact&langs_count=8&hide=html&theme=dark&hide_border=true&bg_color=0D1117&text_color=ffffff" />
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=marcopezzote&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true&bg_color=0D1117&text_color=ffffff&icon_color=00ff00" />
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcopezzote&layout=compact&langs_count=8&hide=html&theme=dark&hide_border=true&bg_color=0D1117&text_color=ffffff" />
   </a>
 </div>
 
+<br>
 <br>
 
 ---
@@ -133,7 +121,6 @@ gantt
 </div>
 
 <br>
+---
 
 <p align="center">Obrigado por visitar meu perfil! Vamos nos conectar! 💻</p>
-
-

@@ -2,8 +2,6 @@
   <a href="https://www.linkedin.com/in/marcopezzote" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="mailto:pezzote@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://marcopezzote.tech" target="_blank"><img src="https://img.shields.io/badge/-Portfólio-247FA7?style=for-the-badge&logo=firefox-browser&logoColor=white" target="_blank"></a>
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=marcopezzote&label=PROFILE+VIEWS&color=blue&style=flat-square" alt="profile views" />
 </div>
 
 <br>
@@ -56,13 +54,3 @@ Conjunto de scripts e configurações para automação de infraestrutura e pipel
 Projeto de conclusão de curso em Engenharia de Computação, focado em Data Science e IA.
 * **Destaques:** Pipeline completo de **Machine Learning** (ETL, Modelagem e Validação) para **NLP** (Processamento de Linguagem Natural) em textos de redes sociais.
 * **Tecnologias:** Python, Pandas, Scikit-Learn, TensorFlow, Flask (para a API).
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <a href="https://github.com/marcopezzote">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=marcopezzote&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true&bg_color=0D1117&text_color=ffffff&icon_color=00ff00" />
-  </a>
-</div>

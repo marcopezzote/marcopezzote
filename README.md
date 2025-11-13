@@ -29,7 +29,7 @@ Minha paixão é projetar e construir soluções escaláveis, de **Monolitos Mod
 
 A maior parte do meu trabalho recente é proprietária e confidencial (SaaS B2B). Abaixo estão os destaques da arquitetura que projetei e implementei nesses projetos.
 
-### 1. Arquiteto & Full Stack (Plataforma de Inspeções - Vertice Apex)
+## 1. Arquiteto & Full Stack ([Vertice Apex - Repositório Oficial](https://github.com/Vertice-One/vertice-apex))
 Responsável pela arquitetura e desenvolvimento de uma plataforma SaaS B2B complexa, focada na gestão de equipes de campo.
 * **Arquitetura:** Definição de um **Monolito Modular** (Modular Monolith) em **NestJS** para garantir manutenibilidade e escalabilidade.
 * **Tecnologias:** Node.js, NestJS, TypeScript, PostgreSQL, Prisma, Docker.

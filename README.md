@@ -31,6 +31,7 @@ A maior parte do meu trabalho recente é proprietária e confidencial (SaaS B2B)
 
 ### 1. Arquiteto & Full Stack (Plataforma de Inspeções - Vertice Apex)
 *Proprietário: [@Vertice-One](https://github.com/Vertice-One) (Repositório Privado)*
+
 Responsável pela arquitetura e desenvolvimento de uma plataforma SaaS B2B complexa, focada na gestão de equipes de campo.
 * **Arquitetura:** Definição de um **Monolito Modular** (Modular Monolith) em **NestJS** para garantir manutenibilidade e escalabilidade.
 * **Tecnologias:** Node.js, NestJS, TypeScript, PostgreSQL, Prisma, Docker.
